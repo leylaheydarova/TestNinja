@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\source-code-starter\u002B(1)\\source-code-starter\\TestNinja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7328740E-4B78-464F-8352-65D887F2145F}|TestNinja\\TestNinja.csproj|c:\\users\\user\\downloads\\source-code-starter\u002B(1)\\source-code-starter\\testninja\\testninja\\fundamentals\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7328740E-4B78-464F-8352-65D887F2145F}|TestNinja\\TestNinja.csproj|solutionrelative:testninja\\fundamentals\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\source-code-starter\u002B(1)\\source-code-starter\\TestNinja\\TestNinja\\Fundamentals\\Reservation.cs",
+              "RelativeDocumentMoniker": "TestNinja\\Fundamentals\\Reservation.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\source-code-starter\u002B(1)\\source-code-starter\\TestNinja\\TestNinja\\Fundamentals\\Reservation.cs",
+              "RelativeToolTip": "TestNinja\\Fundamentals\\Reservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T01:35:45.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 628,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
