@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\source-code-starter\u002B(1)\\source-code-starter\\TestNinja\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Udemy\\UnitTests\\TestNinja\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7328740E-4B78-464F-8352-65D887F2145F}|TestNinja\\TestNinja.csproj|c:\\users\\user\\downloads\\source-code-starter\u002B(1)\\source-code-starter\\testninja\\testninja\\fundamentals\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B667767-C789-40AB-A799-37DCAA467DEE}|TestNinja.UnitTests\\TestNinja.UnitTests.csproj|c:\\users\\user\\desktop\\learning programming\\student\\udemy\\unittests\\testninja\\testninja.unittests\\reservationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B667767-C789-40AB-A799-37DCAA467DEE}|TestNinja.UnitTests\\TestNinja.UnitTests.csproj|solutionrelative:testninja.unittests\\reservationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7328740E-4B78-464F-8352-65D887F2145F}|TestNinja\\TestNinja.csproj|C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Udemy\\UnitTests\\TestNinja\\testninja\\fundamentals\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7328740E-4B78-464F-8352-65D887F2145F}|TestNinja\\TestNinja.csproj|solutionrelative:testninja\\fundamentals\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -31,15 +39,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ReservationTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Udemy\\UnitTests\\TestNinja\\TestNinja.UnitTests\\ReservationTests.cs",
+              "RelativeDocumentMoniker": "TestNinja.UnitTests\\ReservationTests.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Udemy\\UnitTests\\TestNinja\\TestNinja.UnitTests\\ReservationTests.cs",
+              "RelativeToolTip": "TestNinja.UnitTests\\ReservationTests.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:57:13.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Reservation.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Downloads\\source-code-starter\u002B(1)\\source-code-starter\\TestNinja\\TestNinja\\Fundamentals\\Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Udemy\\UnitTests\\TestNinja\\TestNinja\\Fundamentals\\Reservation.cs",
               "RelativeDocumentMoniker": "TestNinja\\Fundamentals\\Reservation.cs",
-              "ToolTip": "C:\\Users\\User\\Downloads\\source-code-starter\u002B(1)\\source-code-starter\\TestNinja\\TestNinja\\Fundamentals\\Reservation.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Udemy\\UnitTests\\TestNinja\\TestNinja\\Fundamentals\\Reservation.cs",
               "RelativeToolTip": "TestNinja\\Fundamentals\\Reservation.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T01:35:45.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T01:35:45.779Z"
             }
           ]
         },

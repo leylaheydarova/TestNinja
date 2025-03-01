@@ -11,3 +11,17 @@
 /Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/EntityFramework.xml
 /Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/EntityFramework.SqlServer.xml
 /Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/Newtonsoft.Json.xml
+C:\Users\User\Desktop\Learning Programming\Student\Udemy\UnitTests\TestNinja\TestNinja\bin\Debug\TestNinja.dll.config
+C:\Users\User\Desktop\Learning Programming\Student\Udemy\UnitTests\TestNinja\TestNinja\bin\Debug\TestNinja.dll
+C:\Users\User\Desktop\Learning Programming\Student\Udemy\UnitTests\TestNinja\TestNinja\bin\Debug\TestNinja.pdb
+C:\Users\User\Desktop\Learning Programming\Student\Udemy\UnitTests\TestNinja\TestNinja\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Learning Programming\Student\Udemy\UnitTests\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Learning Programming\Student\Udemy\UnitTests\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Learning Programming\Student\Udemy\UnitTests\TestNinja\TestNinja\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Learning Programming\Student\Udemy\UnitTests\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Learning Programming\Student\Udemy\UnitTests\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Learning Programming\Student\Udemy\UnitTests\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Learning Programming\Student\Udemy\UnitTests\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Learning Programming\Student\Udemy\UnitTests\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.Up2Date
+C:\Users\User\Desktop\Learning Programming\Student\Udemy\UnitTests\TestNinja\TestNinja\obj\Debug\TestNinja.dll
+C:\Users\User\Desktop\Learning Programming\Student\Udemy\UnitTests\TestNinja\TestNinja\obj\Debug\TestNinja.pdb
