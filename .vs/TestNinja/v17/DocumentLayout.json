@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Udemy\\UnitTests\\TestNinja\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B667767-C789-40AB-A799-37DCAA467DEE}|TestNinja.UnitTests\\TestNinja.UnitTests.csproj|c:\\users\\user\\desktop\\learning programming\\student\\udemy\\unittests\\testninja\\testninja.unittests\\reservationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B667767-C789-40AB-A799-37DCAA467DEE}|TestNinja.UnitTests\\TestNinja.UnitTests.csproj|c:\\users\\user\\desktop\\learning programming\\student\\udemy\\unittests\\testninja\\testninja.unittests\\mathtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B667767-C789-40AB-A799-37DCAA467DEE}|TestNinja.UnitTests\\TestNinja.UnitTests.csproj|solutionrelative:testninja.unittests\\mathtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7328740E-4B78-464F-8352-65D887F2145F}|TestNinja\\TestNinja.csproj|C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Udemy\\UnitTests\\TestNinja\\testninja\\fundamentals\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7328740E-4B78-464F-8352-65D887F2145F}|TestNinja\\TestNinja.csproj|solutionrelative:testninja\\fundamentals\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B667767-C789-40AB-A799-37DCAA467DEE}|TestNinja.UnitTests\\TestNinja.UnitTests.csproj|C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Udemy\\UnitTests\\TestNinja\\testninja.unittests\\reservationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B667767-C789-40AB-A799-37DCAA467DEE}|TestNinja.UnitTests\\TestNinja.UnitTests.csproj|solutionrelative:testninja.unittests\\reservationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -39,19 +47,43 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ReservationTests.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Udemy\\UnitTests\\TestNinja\\TestNinja.UnitTests\\ReservationTests.cs",
-              "RelativeDocumentMoniker": "TestNinja.UnitTests\\ReservationTests.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Udemy\\UnitTests\\TestNinja\\TestNinja.UnitTests\\ReservationTests.cs",
-              "RelativeToolTip": "TestNinja.UnitTests\\ReservationTests.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCQAAABJAAAA",
+              "Title": "MathTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Udemy\\UnitTests\\TestNinja\\TestNinja.UnitTests\\MathTests.cs",
+              "RelativeDocumentMoniker": "TestNinja.UnitTests\\MathTests.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Udemy\\UnitTests\\TestNinja\\TestNinja.UnitTests\\MathTests.cs",
+              "RelativeToolTip": "TestNinja.UnitTests\\MathTests.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAADoAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T16:57:13.312Z",
+              "WhenOpened": "2025-04-15T12:22:55.547Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Math.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Udemy\\UnitTests\\TestNinja\\TestNinja\\Fundamentals\\Math.cs",
+              "RelativeDocumentMoniker": "TestNinja\\Fundamentals\\Math.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Udemy\\UnitTests\\TestNinja\\TestNinja\\Fundamentals\\Math.cs",
+              "RelativeToolTip": "TestNinja\\Fundamentals\\Math.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:23:28.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReservationTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Udemy\\UnitTests\\TestNinja\\TestNinja.UnitTests\\ReservationTests.cs",
+              "RelativeDocumentMoniker": "TestNinja.UnitTests\\ReservationTests.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Udemy\\UnitTests\\TestNinja\\TestNinja.UnitTests\\ReservationTests.cs",
+              "RelativeToolTip": "TestNinja.UnitTests\\ReservationTests.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAqwCQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:57:13.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Reservation.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Udemy\\UnitTests\\TestNinja\\TestNinja\\Fundamentals\\Reservation.cs",
               "RelativeDocumentMoniker": "TestNinja\\Fundamentals\\Reservation.cs",
