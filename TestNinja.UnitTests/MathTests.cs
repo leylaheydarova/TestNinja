@@ -7,16 +7,14 @@ namespace TestNinja.UnitTests
     public class MathTests
     {
         private Math _math;
-        //Setup is calling the instance before each testing method.
+        //Setup is calling the instance of the production class before each testing method.
         [SetUp]
         public void SetUp()
         {
             _math = new Math();
         }
-        //If we denote TearDown before instane of tested class it will call instance after test methods. It is often used in integration tests.
+        //If we denote TearDown before instance of prodution class it will call instance after test methods. It is often used in integration tests.
 
-        //Max Method Tests
-        #region Different cases in different methods
         [Test]
         public void Add_WhenArgumentsAreAandB_ShouldReturnSumOfArguments()
         {
@@ -27,7 +25,10 @@ namespace TestNinja.UnitTests
             Assert.That(currentResult, Is.EqualTo(expectedResult));
         }
 
+        //Max Method Tests
+        #region Different cases in different methods
         [Test]
+        [Ignore("Because this is not optimal")]
         public void Max_WhenFirstArgumentIsGreater_ShouldReturnFirstArgument()
         {
             var result = _math.Max(2, 1);
@@ -35,6 +36,7 @@ namespace TestNinja.UnitTests
         }
 
         [Test]
+        [Ignore("Because this is redundant")]
         public void Max_WhenSecondArgumentIsGreater_ShouldReturnSecondArgument()
         {
             var result = _math.Max(3, 4);
@@ -42,6 +44,7 @@ namespace TestNinja.UnitTests
         }
 
         [Test]
+        [Ignore("Because this is redundant")]
         public void Max_WhenArgumentsAreEqual_ShouldReturnTheSameArgument()
         {
             var result = _math.Max(5, 5);
@@ -60,3 +63,5 @@ namespace TestNinja.UnitTests
         }
     }
 }
+
+//To make sure that your test is truthworthy (reliable) create bug on production code, just make some changinf in target line which returns result of the code, if test still passes, your test code is not testing the right thing, this test is not correct. It doesn't pass in some other changes, you can consider this test as trustworthy.
