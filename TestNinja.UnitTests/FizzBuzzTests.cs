@@ -36,3 +36,7 @@ namespace TestNinja.UnitTests
         }
     }
 }
+
+//Unit Testing - if else, switch case, assigments - isolated business logic
+//Integration Testing - external resources - db, library, file, network
+//End-to-end Testing - Frontdan Backende - Backendden Fronta request/response
