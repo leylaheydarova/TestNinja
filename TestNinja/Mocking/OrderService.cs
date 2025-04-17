@@ -1,4 +1,6 @@
-﻿namespace TestNinja.Mocking
+﻿using System;
+
+namespace TestNinja.Mocking
 {
     public class OrderService
     {
@@ -9,22 +11,23 @@
             _storage = storage;
         }
 
-        public int PlaceOrder(Order order)
+        public Guid PlaceOrder(Order order)
         {
-            var orderId = _storage.Store(order);
-            
+            var result = _storage.Store(order);
+            if (result) return order.OrderId;
             // Some other work
 
-            return orderId; 
+            else return order.OrderId;
         }
     }
 
     public class Order
     {
+        public Guid OrderId { get; set; }
     }
 
     public interface IStorage
     {
-        int Store(object obj);
+        bool Store(object obj);
     }
 }

@@ -29,3 +29,10 @@ C:\Users\User\Desktop\Learning Programming\Student\Udemy\UnitTests\TestNinja\Tes
 C:\Users\User\Desktop\Learning Programming\Student\Udemy\UnitTests\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinj.D6526889.Up2Date
 C:\Users\User\Desktop\Learning Programming\Student\Udemy\UnitTests\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.dll
 C:\Users\User\Desktop\Learning Programming\Student\Udemy\UnitTests\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.pdb
+C:\Users\User\Desktop\Learning Programming\Student\Udemy\UnitTests\TestNinja\TestNinja.UnitTests\bin\Debug\Castle.Core.dll
+C:\Users\User\Desktop\Learning Programming\Student\Udemy\UnitTests\TestNinja\TestNinja.UnitTests\bin\Debug\Moq.dll
+C:\Users\User\Desktop\Learning Programming\Student\Udemy\UnitTests\TestNinja\TestNinja.UnitTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Learning Programming\Student\Udemy\UnitTests\TestNinja\TestNinja.UnitTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Learning Programming\Student\Udemy\UnitTests\TestNinja\TestNinja.UnitTests\bin\Debug\Castle.Core.xml
+C:\Users\User\Desktop\Learning Programming\Student\Udemy\UnitTests\TestNinja\TestNinja.UnitTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Learning Programming\Student\Udemy\UnitTests\TestNinja\TestNinja.UnitTests\bin\Debug\System.Threading.Tasks.Extensions.xml
