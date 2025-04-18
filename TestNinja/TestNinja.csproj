@@ -62,6 +62,7 @@
     <Compile Include="Mocking\BookingHelper.cs" />
     <Compile Include="Mocking\EmployeeController.cs" />
     <Compile Include="Mocking\ExtractingMethods\FileReader.cs" />
+    <Compile Include="Mocking\ExtractingMethods\VideoRepository.cs" />
     <Compile Include="Mocking\InstallerHelper.cs" />
     <Compile Include="Mocking\OrderService.cs" />
     <Compile Include="Mocking\Product.cs" />
